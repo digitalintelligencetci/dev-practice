@@ -10,7 +10,6 @@ git push -u origin main
 Download node.js - https://nodejs.org/
 node - v
 npm -v
-npm install -g expo-cli
-npm install -g npm@11.4.2
-npx-create-expo-app
-prompt to name project
+npm install expo
+npx-create-expo-app --> prompt to name project
+npx expo start - to run development environment
